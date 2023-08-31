@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663858106 source:/home/guilherme/Documents/C++ course/basic course/Variables_Operations/main.cpp
+	<iostream>
+	<cmath>
+
